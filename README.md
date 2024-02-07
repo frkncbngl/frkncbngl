@@ -25,7 +25,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Contact Me
 
-Please reach me out on my [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/frkncbngl)) profile.
+Please reach me out on my [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/frkncbngl)) profile.
 
 I'm always open to collaboration and networking, so feel free to reach out!
 
