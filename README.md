@@ -20,6 +20,7 @@ Here are some of the projects I've worked on:
 
 - [Web Scraper For Flight Prices](https://github.com/frkncbngl/Flight_data_scraper): This project scrapes data from ITAmatrix and stores it in an excel file.
 - [Data Cleaning and Feature Engineering](https://github.com/frkncbngl/pandas-data-cleaning): This project cleans, transforms and adds valueable new columns to scraped data with scraper project.
+- [Flight Price Predictor](https://github.com/frkncbngl/flight-price-predictor): This project is based on the work above. Thanks to Scikit-Learn and Streamlit Libraries it is now accessible as a web-app hosted on streamlit. To directly go to page use this [link](https://flight-price-predict.streamlit.app)
 
 Feel free to explore my repositories to see more of my work!
 
